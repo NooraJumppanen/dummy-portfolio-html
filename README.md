@@ -14,7 +14,7 @@ A dummy portfolio page for HTML&CSS and UI Design classes at Business College He
 
 ## Link 
 
-[Link to the page](https://noorajumppanen.github.io/)
+[https://noorajumppanen.github.io/](https://noorajumppanen.github.io/)
 
 ## Author
 
