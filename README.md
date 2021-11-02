@@ -12,6 +12,12 @@ A dummy portfolio page for HTML&CSS and UI Design classes at Business College He
 
 ![Screenshot](/images/portfolio_screenshot.png?raw=true "Screenshot")
 
+## Link 
+
+[Link to the page](https://noorajumppanen.github.io/)
+
 ## Author
 
 Noora Jumppanen
+
+
